@@ -15,3 +15,7 @@
 .idea/**/gradle.xml
 .idea/**/libraries
 out/
+
+# Gradlen
+.gradle
+build
