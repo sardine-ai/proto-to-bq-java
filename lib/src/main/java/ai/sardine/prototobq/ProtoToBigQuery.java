@@ -1,4 +1,5 @@
-package java.ai.sardine.prototobq;
+package ai.sardine.prototobq;
+
 import com.google.protobuf.*;
 import com.google.api.services.bigquery.model.TableRow;
 
